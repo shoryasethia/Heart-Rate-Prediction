@@ -3,7 +3,7 @@
 ## aicure_pip-install-win
 ## Autors
 [@shoryasethia](https://github.com/shoryasethia) 
-Contact No.: 91+ 7023411717
+Contact No: 91+ 7023411717
 
 # Heart Rate Prediction Model
 * [This](https://github.com/shoryasethia/aicure_pip-install-win) repository contains an `Random Forest Regressor Model` in [heartrate.ipynb](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/heartrate.ipynb) for predicting an individual's heart rate based on diverse attributes derived from ECG recordings. The `train_data.csv` dataset used for training is provided [here](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/train_data.csv).
