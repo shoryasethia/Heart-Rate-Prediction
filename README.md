@@ -14,10 +14,16 @@ To predict heart-rates for `test_data.csv`, use [run.py](https://github.com/shor
 ```
 python run.py path_to_test_data.csv
 ```
->If run.py and test_data.csv are in same directory, then run
+If run.py and test_data.csv are in same directory, then run
 ```
 python run.py test_data.csv
 ```
+# Output
+[run.py](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/run.py) script gives `results.csv` as output
+
+# MSE 
+There exists a [mse-calc.py](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/mse-calc.py) file used to check the mean squared error between the predicted data and the actual data 
+>Run this script only after running the [run.py](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/run.py) script
 
 
 ## License
