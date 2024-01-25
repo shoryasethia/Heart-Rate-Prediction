@@ -1,5 +1,5 @@
-## AI CURE
-# Team Name : pip install win   
+# AI CURE
+## Team Name : pip install win   
 ## aicure_pip-install-win
 ## Autors
 [@shoryasethia](https://github.com/shoryasethia) 
