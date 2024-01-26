@@ -35,5 +35,5 @@ git clone https://github.com/shoryasethia/aicure_pip-install-win
 ```
 pip install -r requirements.txt
 ```
-## License
+# License
 This project is licensed under the [MIT License](LICENSE).
