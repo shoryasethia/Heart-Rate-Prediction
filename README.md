@@ -27,6 +27,10 @@ python run.py test_data.csv
 There exists a [mse-calc.py](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/mse-calc.py) file used to check the mean squared error between the predicted data and the actual data 
 >Run this script only after running the [run.py](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/run.py) script
 
+# Clone the repository
+```
+git clone https://github.com/shoryasethia/aicure_pip-install-win
+```
 # Libraries for run.py
 ```
 pip install -r requirements.txt
