@@ -1,7 +1,7 @@
 # AI CURE
 ## Team Name : pip install win   
 ## aicure_pip-install-win
-## Autors
+# Autors
 [@shoryasethia](https://github.com/shoryasethia) 
 Contact No: 91+ 7023411717
 
