@@ -30,7 +30,6 @@ There exists a [mse-calc.py](https://github.com/shoryasethia/aicure_pip-install-
 # Libraries for run.py
 ```
 pip install -r requirements.txt
-
 ```
 ## License
 This project is licensed under the [MIT License](LICENSE).
