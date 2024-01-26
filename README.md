@@ -16,7 +16,7 @@ To predict heart-rates for `test_data.csv`, use [run.py](https://github.com/shor
 ```
 python run.py path_to_test_data.csv
 ```
-If run.py and test_data.csv are in same directory, then run
+If `run.py` and `test_data.csv` are in same directory, then run
 ```
 python run.py test_data.csv
 ```
