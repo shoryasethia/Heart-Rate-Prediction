@@ -1,6 +1,7 @@
 # AI CURE
 ## Team Name : pip install win   
 ## aicure_pip-install-win
+# [Report](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/Report_aicure_pip-install-win.pdf)
 # Autors
 - [@shoryasethia](https://github.com/shoryasethia) __Contact No: 91+ 7023411717__ | **IIT Bombay**
 - [@sunnygodara](https://github.com/SunnyGodara) __Contact No: +91+ 88528 95497__ | **IIT Bombay**
