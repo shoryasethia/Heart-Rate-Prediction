@@ -1,7 +1,7 @@
 # AI CURE
 ## Team Name : pip install win   
 ## aicure_pip-install-win
-## Rank : 6 / 231 teams
+## Rank : 6 / 217 teams
 # [Report](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/Report_aicure_pip-install-win.pdf)
 # Autor
 - [@shoryasethia](https://github.com/shoryasethia) **| IIT Bombay**
