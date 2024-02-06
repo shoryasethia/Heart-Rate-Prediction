@@ -3,6 +3,7 @@
 ## aicure_pip-install-win
 ## Rank : 6 / 217 teams
 # [Report](https://github.com/shoryasethia/aicure_pip-install-win/blob/main/Report_aicure_pip-install-win.pdf)
+# [Certification](https://github.com/shoryasethia/Heart-Rate-Prediction/blob/main/Certificate.pdf)
 # Autor
 - [@shoryasethia](https://github.com/shoryasethia) **| IIT Bombay**
 # Heart Rate Prediction Model
