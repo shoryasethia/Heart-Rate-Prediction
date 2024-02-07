@@ -34,7 +34,7 @@ python mse-calc.py output_file_name.csv
 
 # Clone the repository
 ```
-git clone https://github.com/shoryasethia/aicure_pip-install-win
+git clone https://github.com/shoryasethia/Heart-Rate-Prediction
 ```
 # Libraries for run.py
 ```
